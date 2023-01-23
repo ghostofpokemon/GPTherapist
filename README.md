@@ -6,15 +6,15 @@ Welcome, dear traveler, to the mind-bending world of GPTherapist. A place where 
 
 Assuming you did these borning steps first:
 
-Clone the repository
+Clone the repository (yawn)
 
     git clone https://github.com/ghostofpokemon/GPTherapist.git
 
-Install the required packages
+Install the required packages (boring)
 
     pip install -r requirements.txt
 
-Set your OpenAI API key as an environment variable
+Set your OpenAI API key as an environment variable (c'mon already, let's get to the good stuff)
 
     export OPENAI_API_KEY="1234yourKEYhere5678"
 
