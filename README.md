@@ -14,7 +14,7 @@ Install the required packages
 
 Set your OpenAI API key as an environment variable
 
-    export OPENAI_API_KEY=[your key here]
+    export OPENAI_API_KEY="1234yourKEYhere5678"
 
 If your name is not Nick, search for "Nick" in the python file and replace it with your name.
 
