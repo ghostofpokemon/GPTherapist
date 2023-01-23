@@ -21,7 +21,7 @@ Set your OpenAI API key as an environment variable (c'mon already, let's get to 
 
 Run the program with reckless abandon, and don't forget to throw in the --deep flag for a wild ride. Trust me, it's a game-changer, just like adding a dash of absinthe to your morning coffee.
 
-On, if your name is not Nick, don't be afraid to change it in the python file, because as Oscar Wilde once said, "Be yourself; everyone else is already taken." Take a leap of faith and let GPTherapist be your guide on this exhilarating journey of the mind.
+Oh yeah, if your name is not Nick, don't be afraid to change it in the python file, because as Oscar Wilde once said, "Be yourself; everyone else is already taken." Take a leap of faith and let GPTherapist be your guide on this exhilarating journey of the mind.
 
 
 You can add --p, --zen, --stoic, --absurd, --cbt, --trans, --emdr to choose different therapeutic practices and unlock new dimensions of self-discovery.
