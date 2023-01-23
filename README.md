@@ -1,5 +1,4 @@
 # GPTherapist
-GPTherapist
 
 Welcome, dear traveler, to the mind-bending world of GPTherapist. A place where the boundaries of reality are blurred and the depths of the psyche are explored. So, grab a drink, light up a smoke, and strap in, because this is going to be one wild ride. To start your journey, simply run the program with the command:
 
