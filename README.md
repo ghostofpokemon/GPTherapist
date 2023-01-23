@@ -1,12 +1,15 @@
 # GPTherapist
 GPTherapist
 
-GPTherapist is a Python program that utilizes OpenAI's GPT-3 to create a chatbot therapist experience. The user can choose from various therapeutic practices and prompts to guide their conversation. The program captures the user's input and chatbot's responses in a conversation history to generate context for the model.
-Getting started
+Welcome, dear traveler, to the mind-bending world of GPTherapist. A place where the boundaries of reality are blurred and the depths of the psyche are explored. So, grab a drink, light up a smoke, and strap in, because this is going to be one wild ride. To start your journey, simply run the program with the command:
+
+    python3 GPTherapist.py
+
+Assuming you did these borning steps first:
 
 Clone the repository
 
-    git clone https://github.com/[username]/GPTherapist.git
+    git clone https://github.com/ghostofpokemon/GPTherapist.git
 
 Install the required packages
 
@@ -16,15 +19,15 @@ Set your OpenAI API key as an environment variable
 
     export OPENAI_API_KEY="1234yourKEYhere5678"
 
-If your name is not Nick, search for "Nick" in the python file and replace it with your name.
 
-Run the program
+Run the program with reckless abandon, and don't forget to throw in the --deep flag for a wild ride. Trust me, it's a game-changer, just like adding a dash of absinthe to your morning coffee.
 
-    python3 GPTherapist.py --p 
+On, if your name is not Nick, don't be afraid to change it in the python file, because as Oscar Wilde once said, "Be yourself; everyone else is already taken." Take a leap of faith and let GPTherapist be your guide on this exhilarating journey of the mind.
 
-You can replace --p with --zen, --stoic, --absurd, --cbt, --trans, --emdr to choose different therapeutic practices.
 
-To end the conversation, type "exit"
+You can add --p, --zen, --stoic, --absurd, --cbt, --trans, --emdr to choose different therapeutic practices and unlock new dimensions of self-discovery.
+
+Listen up, kiddo. I've been around the block a few times and I know what I'm talking about. If you want to experience the true power of GPTherapist, you gotta give that --deep flag a spin. Trust me. The true magic of GPTherapist lies in that little --deep flag. I can't make it the default, but trust me, the universe should have. Give it a try and see for yourself.
 
 Argument options
 
@@ -35,7 +38,9 @@ Argument options
     --cbt : Cognitive Behavioral Therapy
     --trans : Transpersonal psychology
     --emdr : Eye Movement Desensitization and Reprocessing
-    --deep : Unlock a 'deeper' prompt (can be used with the other arguments))
+    --deep : Take a deep dive into uncharted territories of the mind with this powerful prompt option (can be used in conjunction with other arguments for maximum impact)
+
+To end the conversation, type "exit"
 
 Note
 
